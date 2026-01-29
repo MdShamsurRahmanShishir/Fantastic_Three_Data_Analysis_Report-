@@ -1,11 +1,11 @@
-## Fantastic_Three_Data_Analysis_Report
- # Project Overview
+# Fantastic_Three_Data_Analysis_Report
+ ## Project Overview
 
 This repository contains the complete deliverables for the Data Analysis Final Assignment, focused on analyzing IoT telemetry sensor data using statistical methods and machine learning techniques.
 
 The project explores time-series behavior, event-based probability analysis, statistical theory validation, and regression modeling to understand and predict environmental sensor behavior.
 
- # Team: Fantastic Three
+ ## Team: Fantastic Three
 
 Md Ehtashamul Huque
 
@@ -13,7 +13,7 @@ Md Shamsur Rahman Shishir
 
 Sheikh Md. Nayeem
 
-# Dataset Information
+## Dataset Information
 
 Dataset Name: Environmental Sensor Telemetry Dataset
 
@@ -37,7 +37,7 @@ LPG
 
 Binary events: Motion detection and Light state
 
-# Project Tasks Covered
+## Project Tasks Covered
 
 Data preprocessing and quality analysis
 
@@ -50,3 +50,18 @@ Statistical theory validation (LLN & CLT)
 Regression modeling (Linear, Ridge, Lasso, Random Forest)
 
 Dimensionality reduction (PCA, t-SNE)
+
+
+## Tools & Libraries Used
+
+Python
+
+pandas
+
+NumPy
+
+matplotlib
+
+scikit-learn
+
+SciPy
